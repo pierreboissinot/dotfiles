@@ -1,5 +1,6 @@
 " global vim conf
 set number
+let mapleader = ","
 " FZF
 nnoremap <C-p> :FZF<CR>
 let $FZF_DEFAULT_COMMAND = 'ag -g ""' " ignore files in .gitignore https://github.com/junegunn/fzf#tips
