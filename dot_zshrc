@@ -100,3 +100,4 @@ source $ZSH/oh-my-zsh.sh
 export DOCKER_HOST_SUFFIX="pbo.lph"
 alias dc="docker-compose"
 alias ll="ls -lah"
+alias vi="nvim"
