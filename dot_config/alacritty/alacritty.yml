@@ -2,7 +2,7 @@
 font:
   # The normal (roman) font face to use.
   normal:
-    family: Hack
+    family: Hack # https://github.com/source-foundry/Hack
     # Style can be specified to pick a specific face.
     style: Regular
 
